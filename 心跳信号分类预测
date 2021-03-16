@@ -1,0 +1,12 @@
+--task1
+利用Python 和 Matlab 读取数据, 掌握数据的基本情况
+
+遇到的问题
+利用Matlab直接读取csv数据时发生错误
+可利用pandas读取数据后并用scipy.io.savemat存储成mat文件后利用matlab读取(用numpy.array将pandas转成array)
+读取进入matlab后可进行简单的数据check,
+如 mean, std 等. 看缺省值情况, 如nan等
+
+下一步进行学习分类算法. 如何根据heartbeat signals进行分类 (分成4种类别, 1,2,3,4)
+对于该类给定了分类情况并进行学习的问题为supervised learning.
+2021.Mar.16
