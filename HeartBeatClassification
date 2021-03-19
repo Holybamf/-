@@ -10,3 +10,11 @@
 下一步进行学习分类算法. 如何根据heartbeat signals进行分类 (分成4种类别, 1,2,3,4)
 对于该类给定了分类情况并进行学习的问题为supervised learning.
 2021.Mar.16
+
+--task2
+探索利用ensemble based deep neural networks的方式来对心跳信号进行分类. 
+需要注意的是训练输出目标为标称型, 不是数值型, 与之前的应用有所区别, deep neural networks是否可以利用来学习和分类标称型数据?
+如果不可以, 查找类似的方法进行实践.
+可借鉴文章内容: 
+Ding, Y.; Cheng, X.; Liu, J.; Hui, F.; Wang, Z.; Chen, S. Retrieval of Melt Pond Fraction over Arctic Sea Ice during 2000–2019 Using an Ensemble-Based Deep Neural Network. Remote Sens. 2020, 12, 2746. https://doi.org/10.3390/rs12172746 
+2021.Mar.19
